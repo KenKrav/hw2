@@ -5,6 +5,13 @@
   background:
 }
 
+/*#jumbotron-one {*/
+    background-image: url("sunset.jpg");
+    background-size: cover;
+    background-attachment: fixed
+}
+
+
 .header{
   padding: 0px 10px 0px 10px;
   /*margin: 25px 50px 25px 5px;*/
