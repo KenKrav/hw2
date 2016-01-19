@@ -1,7 +1,7 @@
 .jumbotron {
-  border: solid 5px blue;
+  border: 1px solid #eee;
   padding: 25px;
-  margin: 25px 50px 25px 5px;
+  /*margin: 25px 50px 25px 5px;*/
   background:
 }
 
