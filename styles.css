@@ -1,5 +1,11 @@
-note {
-  border: solid 5px #A00;
+.jumbotron {
+  border: solid 5px blue;
   padding: 25px;
   margin: 25px 50px 25px 5px;
+  background:
 }
+
+.header{
+  padding: 0px 25px 0px 25px;
+  /*margin: 25px 50px 25px 5px;*/
+  }
